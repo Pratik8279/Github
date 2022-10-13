@@ -1,10 +1,10 @@
 # Github
 To get particular persons profile also can view repositories on his profile and can view his profile
 first view usersList after searching username
-![Searching username](Screenshot(49).PNG)
+![Searching username](mainpage.PNG)
 
 
-![Followers List](Screenshot(50).PNG)
+![Followers List](followers.PNG)
 
 
-![Singlerepo view](Screenshot(51).PNG)
+![Singlerepo view](description(51).PNG)
