@@ -1,12 +1,12 @@
-import React from 'react'
-import DetailsTable from '../units/Table'
+import React from "react";
+import DetailsTable from "../units/Table";
 
-function Home({data}) {
+function Home({ data }) {
   return (
     <div>
-        <DetailsTable data = {data}/>
+      <DetailsTable data={data} />
     </div>
-  )
+  );
 }
 
-export default Home
+export default Home;
